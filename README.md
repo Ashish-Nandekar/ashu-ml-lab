@@ -1,11 +1,10 @@
-# My GPT — Built from Scratch
+# AshuGPT — Built from Scratch
 
-> Assembled from the NeetCode ML course on [NeetCode.io](https://neetcode.io)
-> Built by **Ashish** on August 9, 2026
+A GPT implementation built from scratch while completing the NeetCode ML Course.
 
-Every file in this project is code I wrote and submitted while completing the NeetCode ML course.
-The problems progressively build from gradient descent fundamentals all the way to a working GPT.
+Built by Ashish · August 9, 2026
 
+This repository contains my implementations of the core concepts behind modern neural networks and GPTs — starting from gradient descent and backpropagation and progressing to transformers, attention, and text generation.
 ## Project Structure
 
 ```
@@ -48,10 +47,9 @@ python generate.py
 
 ## Course
 
-This project was built by completing the [NeetCode ML Course](https://neetcode.io/practice?tab=coreSkills&topic=Machine+Learning):
-- Math Foundations (gradient descent, activations, loss functions)
-- Neural Networks from scratch (neuron, backprop, MLP)
-- PyTorch fundamentals
-- NLP pipeline (embeddings, tokenization, attention)
-- Transformer architecture
-- GPT model + text generation
+Built while completing the [NeetCode ML Course](https://neetcode.io/practice?tab=coreSkills&topic=Machine+Learning).
+
+## About
+
+**AshuGPT** is my hands-on implementation of the concepts behind GPT, built progressively from the fundamentals up.
+
